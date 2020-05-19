@@ -1,0 +1,2 @@
+# WeRateDogs-Data-Wrangling-and-Analysis
+WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. This project gathers data using web scraping and from twitter API. Some data are also collected in the form of csv and tsv files.  Data collected from various sources is merged together and pre-processed to get meaningful information.  Analysis on the cleaned data is done to obtain results. 
